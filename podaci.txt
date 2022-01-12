@@ -6,3 +6,4 @@ Adresa stanovanja: 	Hadžibajazidova mahala br. 13 Gornja Tuzla
 Školovanje:  		Srednja elektrotehnička škola u Tuzli, Škola programiranja "Java academy" Gornja Tuzla
 Email: 			feukiceldin@gmail.com
 Telefon: 		+387603079203
+izmjena
